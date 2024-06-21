@@ -2,7 +2,7 @@ document.title = 'Mercado Livre Ofertas'
 
 const config = {
   title: 'Apple iPhone 15 Pro 128 Gb Titânio Preto',
-  buyUrl: 'https://pagarseupedido.online/checkouts/endereco_tv/',
+  buyUrl: 'https://compra.seguropay.digital/r/77211X6GK38u2Nhy23',
   // buyUrl: 'https://checkout.pagarsuacobranca.online/checkout/?checkoutName=televisao',
   images: [
     'https://http2.mlstatic.com/D_NQ_NP_891263-MLA71783089058_092023-O.webp',
