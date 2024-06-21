@@ -1,19 +1,20 @@
 document.title = 'Mercado Livre Ofertas'
 
 const config = {
-  title: 'Smart TV 50 Polegadas 4K LG UHD ThinQ AI2',
+  title: 'Apple iPhone 15 Pro 128 Gb Titânio Preto',
   buyUrl: 'https://pagarseupedido.online/checkouts/endereco_tv/',
   // buyUrl: 'https://checkout.pagarsuacobranca.online/checkout/?checkoutName=televisao',
   images: [
     'https://http2.mlstatic.com/D_NQ_NP_891263-MLA71783089058_092023-O.webp',
-    'https://cdn.discordapp.com/attachments/707344457598500967/1200572882225471628/tv2.webp?ex=65c6aba0&is=65b436a0&hm=c489e9be61f026b6cd715c2a06b7213feb3d2317fb89f1ba8a869734202cadfa&',
-    'https://cdn.discordapp.com/attachments/707344457598500967/1200572882602967070/tv3.webp?ex=65c6aba0&is=65b436a0&hm=f2ad73460e1594fdf695eeb0a26fcd8081c3d8770c960579f8f2c1066129f6f7&',
-    'https://cdn.discordapp.com/attachments/707344457598500967/1200572883194355802/tv4.webp?ex=65c6aba0&is=65b436a0&hm=b316d255e4c96a691184f5d3ff0f4b188993ef9a4dfc9b199dc4855fb0fc3d89&'
+    'https://http2.mlstatic.com/D_NQ_NP_725477-MLA74676491984_022024-O.webp',
+    'https://http2.mlstatic.com/D_NQ_NP_719197-MLA74808088009_022024-O.webp',
+    'https://http2.mlstatic.com/D_NQ_NP_664325-MLA71783366348_092023-O.webp',
+    'https://http2.mlstatic.com/D_NQ_NP_915721-MLA74805964619_022024-O.webp'
   ],
-  originalPrice: 'R$ 2499,90',
-  newPrice: 'R$ 247,00',
+  originalPrice: 'R$ 6499,90',
+  newPrice: 'R$ 127,90',
   discount: '90%',
-  portion: '6x R$ 39,98 sem juros',
+  portion: '3x R$ 49,98 com juros',
   banner: 'https://havaiahas.myshopify.com/cdn/shop/files/Captura_de_tela_2024-06-20_204407_700x.png?v=1718927078',
   anotherProduct: 'https://promoeofertasml.online/arcond'
 }
