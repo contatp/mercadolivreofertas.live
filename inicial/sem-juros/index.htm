@@ -887,23 +887,6 @@ fbq('track', 'PageView');
 
 
 
-		if (!medium && campaign && !src) {
-
-			urlnova = urlnova + '&src=' + source + '|SemMedium|' + campaign;
-
-		} else if (!campaign && medium && !src) {
-
-			urlnova = urlnova + '&src=' + source + '|' + medium + '|';
-
-		} else if (!campaign && !medium && !src) {
-
-			urlnova = urlnova + '&src=' + source;
-
-		} else if (!src) {
-
-			urlnova = urlnova + '&src=' + source + '|' + medium + '|' + campaign + '|' + content;
-
-		}
 
 		var params = urlnova;
 		var kit1 = 'https://compra.pagamentoseguroredsilver.online/r/353M7q3zdM931Ge979Xi' + params;
