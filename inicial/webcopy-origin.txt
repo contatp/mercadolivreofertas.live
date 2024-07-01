@@ -1,0 +1,256 @@
+Uri: https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\redsilver-original.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/mavenpro/v36/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8cLx5nA.ttf
+File Name: C:\Downloaded Web Sites\redsilver-original.com\s\mavenpro\v36\7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8cLx5nA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mavenpro/v36/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8SX25nA.ttf
+File Name: C:\Downloaded Web Sites\redsilver-original.com\s\mavenpro\v36\7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8SX25nA.ttf
+Content Type: font/ttf
+
+Uri: https://pedidos.store/review/js/reviews.js
+File Name: C:\Downloaded Web Sites\redsilver-original.com\review\js\reviews.js
+Content Type: application/javascript
+
+Uri: https://redsilver-original.com/sem-juros/
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\index.htm
+Content Type: text/html
+
+Uri: https://redsilver-original.com/sem-juros/assets/css/reviews-v=1002.css
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\css\reviews-v=1002.css
+Content Type: text/css
+
+Uri: https://redsilver-original.com/sem-juros/assets/css/style.css
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\css\style.css
+Content Type: text/css
+
+Uri: https://redsilver-original.com/sem-juros/assets/foundation/6.4.2/js/app.js
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\foundation\6.4.2\js\app.js
+Content Type: application/javascript
+
+Uri: https://redsilver-original.com/sem-juros/assets/foundation/6.4.2/js/vendor/foundation.js
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\foundation\6.4.2\js\vendor\foundation.js
+Content Type: application/javascript
+
+Uri: https://redsilver-original.com/sem-juros/assets/foundation/6.4.2/js/vendor/jquery.js
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\foundation\6.4.2\js\vendor\jquery.js
+Content Type: application/javascript
+
+Uri: https://redsilver-original.com/sem-juros/assets/foundation/6.4.2/js/vendor/what-input.js
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\foundation\6.4.2\js\vendor\what-input.js
+Content Type: application/javascript
+
+Uri: https://redsilver-original.com/sem-juros/assets/icon/css/icon.css
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\icon\css\icon.css
+Content Type: text/css
+
+Uri: https://redsilver-original.com/sem-juros/assets/icon/font/icon-92799264.eot
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\icon\font\icon-92799264.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://redsilver-original.com/sem-juros/assets/icon/font/icon-92799264.svg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\icon\font\icon-92799264.svg
+Content Type: image/svg+xml
+
+Uri: https://redsilver-original.com/sem-juros/assets/icon/font/icon-92799264.ttf
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\icon\font\icon-92799264.ttf
+Content Type: application/octet-stream
+
+Uri: https://redsilver-original.com/sem-juros/assets/icon/font/icon-92799264.woff
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\icon\font\icon-92799264.woff
+Content Type: application/font-woff
+
+Uri: https://redsilver-original.com/sem-juros/assets/icon/font/icon-92799264.woff2
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\icon\font\icon-92799264.woff2
+Content Type: application/font-woff2
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/16-v=2.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\16-v=2.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/37-v=2.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\37-v=2.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/39-v=2.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\39-v=2.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/43.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\43.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/45-v=2.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\45-v=2.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/45-v=3.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\45-v=3.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/46-v=2.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\46-v=2.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/47-v=2.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\47-v=2.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/black.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\black.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/cartoes-1.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\cartoes-1.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/cartoes.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\cartoes.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/depoimentos/dep_1-v=2.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\depoimentos\dep_1-v=2.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/depoimentos/dep_2.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\depoimentos\dep_2.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/depoimentos/dep_3.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\depoimentos\dep_3.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/depoimentos/dep_4.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\depoimentos\dep_4.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/depoimentos/dep_5.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\depoimentos\dep_5.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/depoimentos/dep_6.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\depoimentos\dep_6.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/frete2-v=2.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\frete2-v=2.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kit2-tampado.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kit2-tampado.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kit31-brinde.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kit31-brinde.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kit32-brinde.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kit32-brinde.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kit34-brinde.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kit34-brinde.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kit4-tampado.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kit4-tampado.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kit5-tampado-v=2.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kit5-tampado-v=2.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kit6-tampado.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kit6-tampado.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kit7-comtampa-v=1.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kit7-comtampa-v=1.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kit8-comtampa-v=1.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kit8-comtampa-v=1.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kits-2/1 frigideira + 1 tampa 24cm.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kits-2\1 frigideira   1 tampa 24cm.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kits-2/1 frigideira 24cm + 1 panela 20cm + 1 tampa 24cm + 1 tampa 20cm.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kits-2\1 frigideira 24cm   1 panela 20cm   1 tampa 24cm   1 tampa 20cm.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kits-2/tag1.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kits-2\tag1.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kits-2/tag2.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kits-2\tag2.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kits-2/tag3.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kits-2\tag3.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kits-2/tag36.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kits-2\tag36.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kits-2/tag41.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kits-2\tag41.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/kits-2/tag45.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\kits-2\tag45.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/redsilver-garantia.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\redsilver-garantia.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/redsilver_logo-v=2.webp
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\redsilver_logo-v=2.webp
+Content Type: image/webp
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/security.png
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\security.png
+Content Type: image/png
+
+Uri: https://redsilver-original.com/sem-juros/assets/img/white.jpg
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\img\white.jpg
+Content Type: image/jpeg
+
+Uri: https://redsilver-original.com/sem-juros/assets/js/owl/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\js\owl\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://redsilver-original.com/sem-juros/assets/js/owl/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\js\owl\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://redsilver-original.com/sem-juros/assets/js/owl/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\js\owl\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://redsilver-original.com/sem-juros/assets/js/prazo-faq-oficial-v=12.js
+File Name: C:\Downloaded Web Sites\redsilver-original.com\sem-juros\assets\js\prazo-faq-oficial-v=12.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=554827683373335&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\redsilver-original.com\tr
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=742622381282727&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\redsilver-original.com\tr-3
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=7831780653579607&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\redsilver-original.com\tr-1
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=930673468831059&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\redsilver-original.com\tr-2
+Content Type: text/plain
+
