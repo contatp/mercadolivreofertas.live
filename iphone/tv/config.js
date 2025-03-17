@@ -12,9 +12,9 @@ const config = {
     'https://http2.mlstatic.com/D_NQ_NP_915721-MLA74805964619_022024-O.webp'
   ],
   originalPrice: 'R$ 6499,90',
-  newPrice: 'R$ 127,90',
-  discount: '90%',
-  portion: '3x R$ 49,98 com juros',
+  newPrice: 'R$ 0,00',
+  discount: '100%',
+  portion: '',
   banner: 'https://havaiahas.myshopify.com/cdn/shop/files/Captura_de_tela_2024-06-20_204407_700x.png?v=1718927078',
   anotherProduct: 'https://promoeofertasml.online/arcond'
 }
